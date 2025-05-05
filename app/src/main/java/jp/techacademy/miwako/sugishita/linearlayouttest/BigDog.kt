@@ -1,4 +1,4 @@
-package jp.techacademy.miwako.sugishita.kotlinlog
+package jp.techacademy.miwako.sugishita.linearlayouttest
 
 import android.util.Log
 

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'jp.techacademy.miwako.sugishita.kotlinlog'
+    namespace 'jp.techacademy.miwako.sugishita.linearlayouttest'
     compileSdk 33
 
     defaultConfig {
-        applicationId "jp.techacademy.miwako.sugishita.kotlinlog"
+        applicationId "jp.techacademy.miwako.sugishita.linearlayouttest"
         minSdk 24
         targetSdk 33
         versionCode 1
